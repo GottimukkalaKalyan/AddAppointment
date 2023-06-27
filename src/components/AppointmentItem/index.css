@@ -1,0 +1,24 @@
+.appointmentItem {
+  display: flex;
+  padding: 10px;
+  border: 1px solid #b5b7c4;
+  justify-content: flex-start;
+  border-radius: 10px;
+  margin: 20px;
+}
+.nameDateCard {
+  margin-top: 0px;
+  margin-right: 20px;
+}
+.titleName {
+  margin-top: 0px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.dateParagraph {
+  margin-bottom: 0px;
+}
+.starButton {
+  background-color: transparent;
+  border: none;
+}
